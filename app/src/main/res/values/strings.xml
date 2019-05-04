@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WxAddFriends</string>
+
+    <string name="accessibility_desc">周强的辅助功能的描述</string>
+</resources>
